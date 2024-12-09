@@ -1,0 +1,11 @@
+JobID, FreelancerID, FreelancerName, SkillSet, JobTitle, ClientBudget, JobDuration, JobStatus, HireDate, CompletionDate
+001, F001, John Doe, Web Development, Website Design, 1500, 30 days, Completed, 2024-09-15, 2024-10-15
+002, F002, Jane Smith, Graphic Design, Logo Design, 500, 7 days, Completed, 2024-10-01, 2024-10-08
+003, F003, Emily Davis, Content Writing, Blog Post, 250, 5 days, In Progress, 2024-10-05, 
+004, F004, Michael Brown, SEO, SEO Optimization, 1000, 15 days, Completed, 2024-09-20, 2024-10-05
+005, F005, Sarah Johnson, Digital Marketing, Social Media Campaign, 1200, 10 days, In Progress, 2024-10-10, 
+006, F006, Frank Miller, Mobile App Development, iOS App Development, 3000, 45 days, Completed, 2024-08-01, 2024-09-15
+007, F007, Grace Lee, Video Editing, Promotional Video, 800, 10 days, Completed, 2024-09-05, 2024-09-15
+008, F008, David Clark, Data Entry, Data Scraping, 300, 7 days, Cancelled, 2024-10-03, 
+009, F009, Olivia White, Web Development, E-commerce Website, 5000, 60 days, In Progress, 2024-09-25,
+010, F010, Daniel Green, Software Development, App Debugging, 2000, 20 days, Completed, 2024-09-10, 2024-09-30
